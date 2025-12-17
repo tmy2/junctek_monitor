@@ -1,7 +1,7 @@
 #MQTT Server Info
 MQTT_HOST='10.0.0.90'
 MQTT_USER='ttt'
-MQTT_PASS='4956'
+MQTT_PASS='4956K@dz'
 # Mac Address of the Juntec BT
 JUNTEC_ADDR="38:3B:26:5C:2D:0B"
 # Battery Bank Capacity in Ah
