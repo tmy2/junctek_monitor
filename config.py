@@ -1,5 +1,5 @@
 #MQTT Server Info
-MQTT_HOST='10.0.0.122:8123'
+MQTT_HOST='10.0.0.90:8123'
 MQTT_USER='admin'
 MQTT_PASS='admin'
 # Mac Address of the Juntec BT
